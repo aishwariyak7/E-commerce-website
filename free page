@@ -1,0 +1,21 @@
+<html>
+<head>
+    <style>
+        body {
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEw0XVj1ysNYSQuIgpsaWRg3Aixsb52MIArfgjz8oBuN10eBETIuzuO9kk9rBt8SC4kQ&usqp=CAU');
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    </style>
+<body>
+    <form>
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="address">Address:</label><br>
+        <input type="text" id="address" name="address"><br><br>
+        <label for="landmark">Landmark:</label><br>
+        <input type="text" id="landmark" name="landmark"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
